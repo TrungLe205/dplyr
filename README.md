@@ -7,9 +7,7 @@ dplyr is the next iteration of plyr, focussed on tools for working with data fra
 We use data "hflights" to practice the single table and multible table verbs of this packages:
 
 
-Single table verb
-
-s:
+Single table verbs:
 - select(): focus on a subset of variables
 - filter(): focus on a subset of rows
 - mutate(): add new columns
